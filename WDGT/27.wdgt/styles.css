@@ -1,0 +1,276 @@
+body {
+  margin: 0;
+  min-width: 2048px;
+  background-color: #002a43;
+}
+
+#c {
+  position: absolute;
+  width: 652px;
+  height: 162px;
+  left: 701px;
+  top: 141px;
+  z-index: 25;
+}
+
+#c-1 {
+  position: absolute;
+  width: 606px;
+  height: 162px;
+  left: 125px;
+  top: 476px;
+  z-index: 24;
+}
+
+#c-2 {
+  position: absolute;
+  width: 606px;
+  height: 162px;
+  left: 1326px;
+  top: 476px;
+  z-index: 23;
+}
+
+#c-3 {
+  position: absolute;
+  width: 409px;
+  height: 164px;
+  left: 106px;
+  top: 855px;
+  z-index: 22;
+}
+
+#c-4 {
+  position: absolute;
+  width: 409px;
+  height: 164px;
+  left: 584px;
+  top: 855px;
+  z-index: 21;
+}
+
+#c-5 {
+  position: absolute;
+  width: 409px;
+  height: 164px;
+  left: 1062px;
+  top: 855px;
+  z-index: 20;
+}
+
+#c-6 {
+  position: absolute;
+  width: 409px;
+  height: 164px;
+  left: 1540px;
+  top: 855px;
+  z-index: 19;
+}
+
+#c-7 {
+  position: absolute;
+  width: 409px;
+  height: 164px;
+  left: 326px;
+  top: 1240px;
+  z-index: 18;
+}
+
+#c-8 {
+  position: absolute;
+  width: 409px;
+  height: 164px;
+  left: 840px;
+  top: 1240px;
+  z-index: 17;
+}
+
+#st {
+  transform-origin: right;
+  -webkit-transform-origin: right;
+  position: absolute;
+  width: 281px;
+  height: 4px;
+  left: 424px;
+  top: 213px;
+  z-index: 16;
+  background-color: #fff;
+}
+
+#st-1 {
+  transform-origin: left;
+  -webkit-transform-origin: left;
+  position: absolute;
+  width: 281px;
+  height: 4px;
+  left: 1342px;
+  top: 213px;
+  z-index: 15;
+  background-color: #fff;
+}
+
+#st-2 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 264px;
+  left: 414px;
+  top: 213px;
+  z-index: 14;
+}
+
+#st-3 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 264px;
+  left: 1613px;
+  top: 213px;
+  z-index: 13;
+}
+
+#st-4 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 125px;
+  left: 297px;
+  top: 731px;
+  z-index: 12;
+}
+
+#st-5 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 123px;
+  left: 775px;
+  top: 733px;
+  z-index: 11;
+}
+
+#st-6 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 123px;
+  left: 1253px;
+  top: 733px;
+  z-index: 10;
+}
+
+#st-7 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 126px;
+  left: 1731px;
+  top: 731px;
+  z-index: 9;
+}
+
+#st-8 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 235px;
+  left: 592px;
+  top: 1004px;
+  z-index: 8;
+}
+
+#st-9 {
+  transform-origin: top;
+  -webkit-transform-origin: top;
+  position: absolute;
+  width: 20px;
+  height: 235px;
+  left: 957px;
+  top: 1006px;
+  z-index: 7;
+}
+
+#txt {
+  position: absolute;
+  width: 1048px;
+  height: 68px;
+  left: 497px;
+  top: 318px;
+  z-index: 6;
+}
+
+#txt-1 {
+  position: absolute;
+  width: 631px;
+  height: 34px;
+  left: 1198px;
+  top: 646px;
+  z-index: 5;
+}
+
+#txt-2 {
+  position: absolute;
+  width: 475px;
+  height: 34px;
+  left: 579px;
+  top: 753px;
+  z-index: 4;
+}
+
+#txt-3 {
+  position: absolute;
+  width: 221px;
+  height: 68px;
+  left: 665px;
+  top: 1032px;
+  z-index: 3;
+}
+
+#line {
+  transform-origin: left;
+  -webkit-transform-origin: left;
+  position: absolute;
+  width: 1434px;
+  height: 4px;
+  left: 307px;
+  top: 731px;
+  z-index: 2;
+  background-color: #fff;
+}
+
+#wraper{
+    position: absolute;
+  width: 2048px;
+  z-index: 99;
+  margin-top: 650px;
+}
+
+#btn {
+  width: 800px;
+  margin: auto;
+  border: 8px solid #00bafb;
+  background-color: #3c3c3c;
+  text-align: center;
+  font: 60px/72px Helvetica Neue, sans-serif;
+  color: #00bafb;
+  letter-spacing: normal;
+  padding: 40px 100px;
+}
+#ring {
+  position: absolute;
+  width: 73px;
+  height: 69px;
+  left: 1930px;
+  top: 1425px;
+  z-index: 20;
+}
+.c, .st, #c, .line, .txt {
+  visibility: hidden;
+}
